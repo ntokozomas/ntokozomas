@@ -1,4 +1,4 @@
-## Hi there, I'm Ntokozo.✨
+## Hi there, I'm Ntokozo Masango.✨
 
 - 📚 I'm a 2nd-year BSc IT student.
 - 🌱 I’m working on a few side projects, here and there (check repos) 😉
