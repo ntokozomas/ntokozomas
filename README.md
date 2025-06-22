@@ -1,7 +1,7 @@
 ## Hi there, I'm Ntokozo Masango.✨
 
 - 📚 I'm a 2nd-year BSc IT student.
-- 💻 I work best on a linux machine, ubuntu...cause it's pink.😝
+- 💻 I work best on a linux machine, ubuntu...cause it's purple.😝
 - 🌱 I’m working on a few side projects, here and there (check repos) 😉
 - 👯 I’m looking to collaborate on software dev projects, open to anything not language/framework specfic.
 - 💬 I'm currently based in South Korea, as a foreign language instructor.
