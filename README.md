@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on software dev projects, open to anything not language/framework specfic.
 - 💬 I'm currently based in South Korea, as a foreign language instructor.
 - 📫 How to reach me: ntokozopmasango@gmail.com
-- ⚡ Fun fact: I have three degrees, the one in IT is my 4th, yeah mega nerd vibes.😁
+- ⚡ Fun fact: I have three degrees, the one in IT is my 4th😁
   
 
 # 💻 Tech Stack:
